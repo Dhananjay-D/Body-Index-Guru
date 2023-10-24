@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Body-Index-Guru/static/css/main.ae0669b5.css",
+    "main.js": "/Body-Index-Guru/static/js/main.b337fb3e.js",
+    "static/js/787.083dd275.chunk.js": "/Body-Index-Guru/static/js/787.083dd275.chunk.js",
+    "index.html": "/Body-Index-Guru/index.html",
+    "main.ae0669b5.css.map": "/Body-Index-Guru/static/css/main.ae0669b5.css.map",
+    "main.b337fb3e.js.map": "/Body-Index-Guru/static/js/main.b337fb3e.js.map",
+    "787.083dd275.chunk.js.map": "/Body-Index-Guru/static/js/787.083dd275.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0669b5.css",
+    "static/js/main.b337fb3e.js"
+  ]
+}
